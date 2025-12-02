@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "MAHOROBA",
+  "base_artist": "illion",
+  "createdAt": "2025-12-02T12:41:33.066091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MAHOROBA",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/01_MAHOROBA_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MAHOROBA",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/02_MAHOROBA_TVXQ!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mahoroba Maruyama",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/03_Mahoroba_Maruyama_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MAHOROBA",
+      "artist": "illion",
+      "has_synced": true,
+      "path": "select/04_MAHOROBA_illion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "mahoroba",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/05_mahoroba_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MAHOROBA-Deli",
+      "artist": "DIALOGUE+",
+      "has_synced": true,
+      "path": "select/06_MAHOROBA-Deli_DIALOGUE+.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mahoroba Asterisk (Ikonoifes 2021 Hirukouen)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/07_Mahoroba_Asterisk_(Ikonoifes_2021_Hirukouen)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mahoroba Asterisk (Ikonoifes 2021 Yorukouen)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/08_Mahoroba_Asterisk_(Ikonoifes_2021_Yorukouen)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ao No Mahoroba",
+      "artist": "LIL!",
+      "has_synced": true,
+      "path": "select/09_Ao_No_Mahoroba_LIL!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MAHOROBA",
+      "artist": "동방신기 (TVXQ!)",
+      "has_synced": true,
+      "path": "select/10_MAHOROBA_동방신기_(TVXQ!).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mahoroba",
+      "artist": "Masashi Sada",
+      "has_synced": true,
+      "path": "select/11_Mahoroba_Masashi_Sada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAHOROBA",
+      "artist": "illion",
+      "has_synced": false,
+      "path": "select/pl_01_MAHOROBA_illion.txt"
+    }
+  ]
+}
